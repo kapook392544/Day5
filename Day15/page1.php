@@ -3,7 +3,7 @@
 <?php require_once 'navigater.php';?>
 <div class="container" style="margin-top:30px">
 <h1>ส่ง git ครั้งที่1</h1>
-<h2>ส่ง git ครั้งที่/</h2>
+<h2>ส่ง git ครั้งที่</h2>
 <h3>ตัวอย่างซีรี่ย์ที่มาเเรง ปี 2021</h3>
 <p><img src="https://6.vikiplatform.com/image/220415a8e07d4eed9e82373c0962ae6d.jpg?x=b&a=0x0" class="mx-auto d-block"></p>
     <h3> 1.The Painthouse - War in Life</h3>
